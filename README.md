@@ -15,7 +15,8 @@ a collection of resources
 9. Some Bash coding conventions and good practices, <https://github.com/icy/bash-coding-style>
 
 ## R
-1. ggplot2, https://ggplot2-book.org
-2. Advanced R, https://adv-r.hadley.nz/
-3. R for Data Scicence, https://r4ds.had.co.nz/index.html
+1. ggplot2, <https://ggplot2-book.org>
+
+2. Advanced R, <https://adv-r.hadley.nz/>
+3. R for Data Scicence, <https://r4ds.had.co.nz/index.html>
 4. R Packages, https://r-pkgs.org/
