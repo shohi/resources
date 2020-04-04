@@ -27,3 +27,4 @@ a collection of resources
 ### blog
 1. Simply Statistics, <https://simplystatistics.org/>
 2. FlowingData, <https://flowingdata.com>
+3. 粉丝日志, <http://blog.fens.me/>
