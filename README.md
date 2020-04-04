@@ -20,8 +20,6 @@ a collection of resources
 2. Fundamentals of Data Visualization, <https://serialmentor.com/dataviz/index.html>
 3. R Markdown: The Definitive Guide, <https://bookdown.org/yihui/rmarkdown/>
 
----
-
 4. Advanced R, <https://adv-r.hadley.nz/>
 5. R for Data Scicence, <https://r4ds.had.co.nz/index.html>
 6. R Packages, https://r-pkgs.org/
