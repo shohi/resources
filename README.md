@@ -18,10 +18,13 @@ a collection of resources
 ### book
 1. ggplot2, <https://ggplot2-book.org>
 2. Fundamentals of Data Visualization, <https://serialmentor.com/dataviz/index.html>
+3. R Markdown: The Definitive Guide, <https://bookdown.org/yihui/rmarkdown/>
 
-3. Advanced R, <https://adv-r.hadley.nz/>
-4. R for Data Scicence, <https://r4ds.had.co.nz/index.html>
-5. R Packages, https://r-pkgs.org/
+---
+
+4. Advanced R, <https://adv-r.hadley.nz/>
+5. R for Data Scicence, <https://r4ds.had.co.nz/index.html>
+6. R Packages, https://r-pkgs.org/
 
 ### blog
 1. Simply Statistics, <https://simplystatistics.org/>
