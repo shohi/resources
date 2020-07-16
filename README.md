@@ -29,6 +29,32 @@ a collection of resources
 2. FlowingData, <https://flowingdata.com>
 3. 粉丝日志, <http://blog.fens.me/>
 
+## Golang
+
+### performance
+
+#### guide
+1. go-perfbook, <https://github.com/dgryski/go-perfbook>
+2. High Performance Go Workshop, <https://github.com/davecheney/high-performance-go-workshop>
+3. Diagnostics, <https://golang.org/doc/diagnostics.html>
+4. Basics of benchmarking, profiling and tracing with Go, <https://github.com/samonzeweb/profilinggo>
+5. Debugging performance issues in Go programs, <https://github.com/golang/go/wiki/Performance>
+
+6. (2017-03-13) Profiling and optimizing Go web applications, <https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/>
+7. (2015-10-18) Golang escape analysis, <http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html>
+8. (2015-08-22) YAPC: Go Debugging, Profiling, and Optimization, <https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/view#slide=id.p>
+
+#### tool
+1. golang/perf - Go performance measurement, storage, and analysis tools, <https://github.com/golang/perf>
+
+#### topic
+##### latency
+1. Want to Debug Latency, <https://medium.com/@rakyll/want-to-debug-latency-7aa48ecbe8f7>
+2. Debugging Latency in Go 1.11, <https://medium.com/@rakyll/debugging-latency-in-go-1-11-9f97a7910d68>
+
+#### discussion
+1. doc: explain how to debug performance problems in go programs, <https://github.com/golang/go/issues/19980>
+
 ## Cheatsheet
 
 ### computational complexity
