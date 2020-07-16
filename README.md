@@ -33,6 +33,7 @@ a collection of resources
 
 ### internals
 1. Go 101, <https://go101.org/article/101.html>
+2. Go语言设计与实现, <https://draveness.me/golang/docs/part1-prerequisite/ch02-compile/golang-ir-ssa/>
 
 ### performance
 
