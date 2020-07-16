@@ -45,13 +45,15 @@ a collection of resources
 5. Debugging performance issues in Go programs, <https://github.com/golang/go/wiki/Performance>
 6. Profiling Go Programs, <https://blog.golang.org/pprof>
 
-7. (2017-03-13) Profiling and optimizing Go web applications, <https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/>
-8. (2015-10-18) Golang escape analysis, <http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html>
-9. (2015-08-22) YAPC: Go Debugging, Profiling, and Optimization, <https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/view#slide=id.p>
+7. (2020-01-03) Continuous profiling in Go with Profefe, <https://gianarb.it/blog/go-continuous-profiling-profefe>
+8. (2017-03-13) Profiling and optimizing Go web applications, <https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/>
+9. (2015-10-18) Golang escape analysis, <http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html>
+10. (2015-08-22) YAPC: Go Debugging, Profiling, and Optimization, <https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/view#slide=id.p>
 
 #### tool
 1. golang/perf - Go performance measurement, storage, and analysis tools, <https://github.com/golang/perf>
 2. felixge/fgprof - a sampling Go profiler, <https://github.com/felixge/fgprof>
+3. profefe/profefe - Continuously collect profiling data for long-term postmortem analysis, <https://github.com/profefe/profefe>
 
 #### topic
 ##### latency
