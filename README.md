@@ -51,6 +51,7 @@ a collection of resources
 
 #### tool
 1. golang/perf - Go performance measurement, storage, and analysis tools, <https://github.com/golang/perf>
+2. felixge/fgprof - a sampling Go profiler, <https://github.com/felixge/fgprof>
 
 #### topic
 ##### latency
@@ -62,6 +63,9 @@ a collection of resources
 
 #### discussion
 1. doc: explain how to debug performance problems in go programs, <https://github.com/golang/go/issues/19980>
+
+### blog
+1. Go, the unwritten parts, <https://rakyll.org/>
 
 ## Cheatsheet
 
