@@ -31,6 +31,9 @@ a collection of resources
 
 ## Golang
 
+### internals
+1. Go 101, <https://go101.org/article/101.html>
+
 ### performance
 
 #### guide
@@ -39,10 +42,11 @@ a collection of resources
 3. Diagnostics, <https://golang.org/doc/diagnostics.html>
 4. Basics of benchmarking, profiling and tracing with Go, <https://github.com/samonzeweb/profilinggo>
 5. Debugging performance issues in Go programs, <https://github.com/golang/go/wiki/Performance>
+6. Profiling Go Programs, <https://blog.golang.org/pprof>
 
-6. (2017-03-13) Profiling and optimizing Go web applications, <https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/>
-7. (2015-10-18) Golang escape analysis, <http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html>
-8. (2015-08-22) YAPC: Go Debugging, Profiling, and Optimization, <https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/view#slide=id.p>
+7. (2017-03-13) Profiling and optimizing Go web applications, <https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/>
+8. (2015-10-18) Golang escape analysis, <http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html>
+9. (2015-08-22) YAPC: Go Debugging, Profiling, and Optimization, <https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/view#slide=id.p>
 
 #### tool
 1. golang/perf - Go performance measurement, storage, and analysis tools, <https://github.com/golang/perf>
@@ -51,6 +55,9 @@ a collection of resources
 ##### latency
 1. Want to Debug Latency, <https://medium.com/@rakyll/want-to-debug-latency-7aa48ecbe8f7>
 2. Debugging Latency in Go 1.11, <https://medium.com/@rakyll/debugging-latency-in-go-1-11-9f97a7910d68>
+
+##### escape analysis
+1. Allocation efficiency in high-performance Go services, <https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/>
 
 #### discussion
 1. doc: explain how to debug performance problems in go programs, <https://github.com/golang/go/issues/19980>
