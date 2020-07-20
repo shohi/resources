@@ -47,8 +47,7 @@ a collection of resources
 
 7. (2020-01-03) Continuous profiling in Go with Profefe, <https://gianarb.it/blog/go-continuous-profiling-profefe>
 8. (2017-03-13) Profiling and optimizing Go web applications, <https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/>
-9. (2015-10-18) Golang escape analysis, <http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html>
-10. (2015-08-22) YAPC: Go Debugging, Profiling, and Optimization, <https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/view#slide=id.p>
+9. (2015-08-22) YAPC: Go Debugging, Profiling, and Optimization, <https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/view#slide=id.p>
 
 #### tool
 1. golang/perf - Go performance measurement, storage, and analysis tools, <https://github.com/golang/perf>
@@ -62,6 +61,9 @@ a collection of resources
 
 ##### escape analysis
 1. Allocation efficiency in high-performance Go services, <https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/>
+2. (2018-01-22) Escape-Analysis Flaws, https://www.ardanlabs.com/blog/2018/01/escape-analysis-flaws.html
+3. (2015-10-18) Golang escape analysis, <http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html>
+
 
 #### discussion
 1. doc: explain how to debug performance problems in go programs, <https://github.com/golang/go/issues/19980>
