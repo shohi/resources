@@ -63,6 +63,7 @@ a collection of resources
 1. Allocation efficiency in high-performance Go services, <https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/>
 2. (2018-01-22) Escape-Analysis Flaws, https://www.ardanlabs.com/blog/2018/01/escape-analysis-flaws.html
 3. (2015-10-18) Golang escape analysis, <http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html>
+4. (2015-02-10) Go Escape Analysis Flaws, https://docs.google.com/document/d/1CxgUBPlx9iJzkz9JWkb6tIpTe5q32QDmz8l0BouG0Cw/edit
 
 
 #### discussion
