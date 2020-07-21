@@ -3,7 +3,7 @@ a collection of resources
 
 ## List
 
-- [Go](go/resource.org)
+- [Go](go/README.org)
 - [Bash](bash/resource.org)
 - [R](r/resource.org)
 
