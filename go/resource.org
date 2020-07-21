@@ -31,11 +31,15 @@
 2. Debugging Latency in Go 1.11, <https://medium.com/@rakyll/debugging-latency-in-go-1-11-9f97a7910d68>
 
 ***** escape analysis
-1. Allocation efficiency in high-performance Go services, <https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/>
-2. (2018-01-22) Escape-Analysis Flaws, https://www.ardanlabs.com/blog/2018/01/escape-analysis-flaws.html
-3. (2015-10-18) Golang escape analysis, <http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html>
-4. (2015-02-10) Go Escape Analysis Flaws, https://docs.google.com/document/d/1CxgUBPlx9iJzkz9JWkb6tIpTe5q32QDmz8l0BouG0Cw/edit
 
+****** flaw
+1. (2015-02-10) Go Escape Analysis Flaws, <https://docs.google.com/document/d/1CxgUBPlx9iJzkz9JWkb6tIpTe5q32QDmz8l0BouG0Cw/edit>
+
+****** article
+1. Allocation efficiency in high-performance Go services, <https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/>
+2. (2018-01-22) Escape-Analysis Flaws, <https://www.ardanlabs.com/blog/2018/01/escape-analysis-flaws.html>
+3. (2016-10-10) golang: Escape analysis and interfaces, <https://npat-efault.github.io/programming/2016/10/10/escape-analysis-and-interfaces.html>
+4. (2015-10-18) Golang escape analysis, <http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html>
 
 **** discussion
 1. doc: explain how to debug performance problems in go programs, <https://github.com/golang/go/issues/19980>
