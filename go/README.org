@@ -24,6 +24,8 @@
 2. felixge/fgprof - a sampling Go profiler, <https://github.com/felixge/fgprof>
 3. profefe/profefe - Continuously collect profiling data for long-term postmortem analysis, <https://github.com/profefe/profefe>
 
+4. (2016-09-25) Go tooling internals, <https://rakyll.org/go-tool-flags/>
+
 **** topic
 
 ***** latency
