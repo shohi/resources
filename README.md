@@ -14,3 +14,4 @@ a collection of resources
 
 ### every programmer show know
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+- [What a C programmer should know about memory](https://marek.vavrusa.com/memory/)
