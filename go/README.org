@@ -1,14 +1,14 @@
-** Golang
+* Golang
 
-*** internals
+** internals
 1. Go 101, <https://go101.org/article/101.html>
 2. Go语言设计与实现, <https://draveness.me/golang/docs/part1-prerequisite/ch02-compile/golang-ir-ssa/>
 3. Go internals, <https://github.com/teh-cmc/go-internals>
 4. Go语法树入门, <https://github.com/chai2010/go-ast-book>
 
-*** performance
+** performance
 
-**** guide
+*** guide
 1. go-perfbook, <https://github.com/dgryski/go-perfbook>
 2. High Performance Go Workshop, <https://github.com/davecheney/high-performance-go-workshop>
 3. Diagnostics, <https://golang.org/doc/diagnostics.html>
@@ -20,48 +20,55 @@
 8. (2017-03-13) Profiling and optimizing Go web applications, <https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/>
 9. (2015-08-22) YAPC: Go Debugging, Profiling, and Optimization, <https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/view#slide=id.p>
 
-**** tool
+*** tool
 1. golang/perf - Go performance measurement, storage, and analysis tools, <https://github.com/golang/perf>
 2. felixge/fgprof - a sampling Go profiler, <https://github.com/felixge/fgprof>
 3. profefe/profefe - Continuously collect profiling data for long-term postmortem analysis, <https://github.com/profefe/profefe>
 
 4. (2016-09-25) Go tooling internals, <https://rakyll.org/go-tool-flags/>
 
-**** topic
+*** topic
 
-***** latency
+**** latency
 1. Want to Debug Latency, <https://medium.com/@rakyll/want-to-debug-latency-7aa48ecbe8f7>
 2. Debugging Latency in Go 1.11, <https://medium.com/@rakyll/debugging-latency-in-go-1-11-9f97a7910d68>
 
-***** escape analysis
+**** escape analysis
 
-****** flaw
+***** flaw
 1. (2015-02-10) Go Escape Analysis Flaws, <https://docs.google.com/document/d/1CxgUBPlx9iJzkz9JWkb6tIpTe5q32QDmz8l0BouG0Cw/edit>
 
-****** article
+***** article
 1. Allocation efficiency in high-performance Go services, <https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/>
 2. (2018-01-22) Escape-Analysis Flaws, <https://www.ardanlabs.com/blog/2018/01/escape-analysis-flaws.html>
 3. (2016-10-10) golang: Escape analysis and interfaces, <https://npat-efault.github.io/programming/2016/10/10/escape-analysis-and-interfaces.html>
 4. (2015-10-18) Golang escape analysis, <http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html>
 
-**** discussion
+*** discussion
 1. doc: explain how to debug performance problems in go programs, <https://github.com/golang/go/issues/19980>
 
-**** blog
+*** blog
 1. Go, the unwritten parts, <https://rakyll.org/>
 
-*** ast
+** ast
 
-**** article
+*** article
 1. Golang和ast, <https://xargin.com/ast/>
 
-**** tools
+*** tools
 1. gotags - ctags-compatible tag generator for Go, <https://github.com/jstemmer/gotags>
 2. goimpl - A tool to generate stub implementation of an interface, <https://github.com/sasha-s/goimpl>
 3. impl - Another tool to generate method stubs for implementing an interface, <https://github.com/josharian/impl>
 
-*** editor
+** editor
 
 **** emacs plugin
 1. go-impl.el - impl for Emacs, <https://github.com/emacsorphanage/go-impl>
+
+** packages
+
+*** rate limit
+1. <https://github.com/uber-go/ratelimit>
+2. <https://github.com/juju/ratelimit>
+3. (2019-11-02) How to Rate Limit HTTP Requests, <https://www.alexedwards.net/blog/how-to-rate-limit-http-requests>
 
