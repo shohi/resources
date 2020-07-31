@@ -57,4 +57,5 @@
 
 ***** tools
 1. gotags - ctags-compatible tag generator for Go, <https://github.com/jstemmer/gotags>
-2. goimpl - A tool to generate stub implementation of an interface (go), <https://github.com/sasha-s/goimpl>
+2. goimpl - A tool to generate stub implementation of an interface, <https://github.com/sasha-s/goimpl>
+3. impl - Another tool to generate method stubs for implementing an interface, <https://github.com/josharian/impl>
