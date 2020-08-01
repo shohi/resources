@@ -3,7 +3,7 @@
 ** tutorial
 1. Bash 教程, <https://github.com/wangdoc/bash-tutorial>
 
-** style Guide
+** style guide
 1. The Art of Command Line, <https://github.com/jlevy/the-art-of-command-line>
 2. awesome-bash, <https://github.com/awesome-lists/awesome-bash>
 3. Google's Shell Style Guilde, <https://google.github.io/styleguide/shell.xml>
