@@ -1,0 +1,4 @@
+* Emacs
+
+** article
+1. (2018-12-11) 怎么学习Emacs? 达到真正融汇贯通的境界?, <https://manateelazycat.github.io/emacs/2018/12/11/study-emacs.html>
