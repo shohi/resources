@@ -6,6 +6,7 @@ a collection of resources
 - [Go](go/README.org)
 - [Bash](bash/resource.org)
 - [R](r/resource.org)
+- [Emacs](emacs/resource.org)
 
 ## Cheatsheet
 
