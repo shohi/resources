@@ -1,5 +1,12 @@
 * Emacs
 
+** startup
+1. (2019-05-12) 优化Emacs启动速度的方法论, <https://manateelazycat.github.io/emacs/2019/05/12/emacs-optimize-startup-speed.html>
+2. (2019-05-05) 利用lazy-load.el按需加载Emacs插件, <https://manateelazycat.github.io/emacs/2019/05/05/lazy-load.html>
+
+** debug
+1. (2020-02-13) Emacs调试高级技巧, https://manateelazycat.github.io/emacs/2020/02/13/emacs-debug.html
+
 ** article
 1. (2018-12-11) 怎么学习Emacs? 达到真正融汇贯通的境界?, <https://manateelazycat.github.io/emacs/2018/12/11/study-emacs.html>
 2. (2019-05-12) Emacs黑客列表, <https://manateelazycat.github.io/emacs/2019/05/12/emacs-hackers.html>
