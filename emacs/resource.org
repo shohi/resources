@@ -1,5 +1,8 @@
 * Emacs
 
+** news
+https://sachachua.com/blog/emacs/
+
 ** startup
 1. (2019-05-12) 优化Emacs启动速度的方法论, <https://manateelazycat.github.io/emacs/2019/05/12/emacs-optimize-startup-speed.html>
 2. (2019-05-05) 利用lazy-load.el按需加载Emacs插件, <https://manateelazycat.github.io/emacs/2019/05/05/lazy-load.html>
@@ -12,4 +15,5 @@
 2. (2019-05-12) Emacs黑客列表, <https://manateelazycat.github.io/emacs/2019/05/12/emacs-hackers.html>
 
 ** blog
-1. Emacs document, <http://blog.lujun9972.win/emacs-document/>
+1. With Emacs, <https://with-emacs.com/>
+2. Emacs document, <http://blog.lujun9972.win/emacs-document/>
