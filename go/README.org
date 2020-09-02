@@ -5,6 +5,10 @@
 2. Go语言设计与实现, <https://draveness.me/golang/docs/part1-prerequisite/ch02-compile/golang-ir-ssa/>
 3. Go internals, <https://github.com/teh-cmc/go-internals>
 4. Go语法树入门, <https://github.com/chai2010/go-ast-book>
+5. Go语言原本, <https://changkun.de/golang/>
+
+** scheduler
+1. 深度解密Go语言之scheduler, <https://qcrao.com/2019/09/02/dive-into-go-scheduler/>
 
 ** performance
 
