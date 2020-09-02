@@ -7,17 +7,23 @@
 4. Go语法树入门, <https://github.com/chai2010/go-ast-book>
 5. Go语言原本, <https://changkun.de/golang/>
 
-** scheduler
-1. 深度解密Go语言之scheduler, <https://qcrao.com/2019/09/02/dive-into-go-scheduler/>
-
 ** ast
-1. Go语法树入门, <Go语法树入门>
+1. Go语法树入门, <https://github.com/chai2010/go-ast-book>
 2. Golang和ast, <https://xargin.com/ast/>
 
 *tools*
 1. gotags - ctags-compatible tag generator for Go, <https://github.com/jstemmer/gotags>
 2. goimpl - A tool to generate stub implementation of an interface, <https://github.com/sasha-s/goimpl>
 3. impl - Another tool to generate method stubs for implementing an interface, <https://github.com/josharian/impl>
+
+** scheduler
+1. 深度解密Go语言之scheduler, <https://qcrao.com/2019/09/02/dive-into-go-scheduler/>, 2019-09-02
+2. Go调度器系列, <http://lessisbetter.site/2019/03/10/golang-scheduler-1-history/>, 2019-03-10
+
+** memory management
+1. 可视化Go内存管理, <https://tonybai.com/2020/03/10/visualizing-memory-management-in-golang/>, 2020-03-10
+2. Go语言内存分配器的实现, <https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator/>
+3. Go内存管理那些事, <https://lessisbetter.site/2019/07/06/go-memory-allocation/>, 2019-07-06
 
 ** performance
 
@@ -29,9 +35,9 @@
 5. Debugging performance issues in Go programs, <https://github.com/golang/go/wiki/Performance>
 6. Profiling Go Programs, <https://blog.golang.org/pprof>
 
-7. (2020-01-03) Continuous profiling in Go with Profefe, <https://gianarb.it/blog/go-continuous-profiling-profefe>
-8. (2017-03-13) Profiling and optimizing Go web applications, <https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/>
-9. (2015-08-22) YAPC: Go Debugging, Profiling, and Optimization, <https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/view#slide=id.p>
+7. Continuous profiling in Go with Profefe, <https://gianarb.it/blog/go-continuous-profiling-profefe>, 2020-01-03
+8. Profiling and optimizing Go web applications, <https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/>, 2017-03-13
+9. YAPC: Go Debugging, Profiling, and Optimization, <https://docs.google.com/presentation/d/1lL7Wlh9GBtTSieqHGJ5AUd1XVYR48UPhEloVem-79mA/view#slide=id.p>, 2015-08-22
 
 *** tool
 1. golang/perf - Go performance measurement, storage, and analysis tools, <https://github.com/golang/perf>
@@ -60,9 +66,8 @@
 *** discussion
 1. doc: explain how to debug performance problems in go programs, <https://github.com/golang/go/issues/19980>
 
-*** blog
+** blog
 1. Go, the unwritten parts, <https://rakyll.org/>
-
 
 ** editor
 
