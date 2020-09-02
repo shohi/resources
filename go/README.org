@@ -10,6 +10,15 @@
 ** scheduler
 1. 深度解密Go语言之scheduler, <https://qcrao.com/2019/09/02/dive-into-go-scheduler/>
 
+** ast
+1. Go语法树入门, <Go语法树入门>
+2. Golang和ast, <https://xargin.com/ast/>
+
+*tools*
+1. gotags - ctags-compatible tag generator for Go, <https://github.com/jstemmer/gotags>
+2. goimpl - A tool to generate stub implementation of an interface, <https://github.com/sasha-s/goimpl>
+3. impl - Another tool to generate method stubs for implementing an interface, <https://github.com/josharian/impl>
+
 ** performance
 
 *** guide
@@ -54,15 +63,6 @@
 *** blog
 1. Go, the unwritten parts, <https://rakyll.org/>
 
-** ast
-
-*** article
-1. Golang和ast, <https://xargin.com/ast/>
-
-*** tools
-1. gotags - ctags-compatible tag generator for Go, <https://github.com/jstemmer/gotags>
-2. goimpl - A tool to generate stub implementation of an interface, <https://github.com/sasha-s/goimpl>
-3. impl - Another tool to generate method stubs for implementing an interface, <https://github.com/josharian/impl>
 
 ** editor
 
