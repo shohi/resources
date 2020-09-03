@@ -1,0 +1,11 @@
+* Clojure Resources
+
+** news
+1. planet clojure, <http://planet.clojure.in/>
+2. clojureverse, <https://clojureverse.org>
+
+** series
+1. Clojure Journey, <https://otavio.dev/2020/08/24/clojure-journey-i-first-steps/>
+
+** blog
+1. Otavio Valadares, <https://otavio.dev>
