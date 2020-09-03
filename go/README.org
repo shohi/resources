@@ -10,6 +10,7 @@
 ** ast
 1. Go语法树入门, <https://github.com/chai2010/go-ast-book>
 2. Golang和ast, <https://xargin.com/ast/>
+3. How to Write a Lexer in Go, <https://www.aaronraff.dev/blog/how-to-write-a-lexer-in-go>
 
 *tools*
 1. gotags - ctags-compatible tag generator for Go, <https://github.com/jstemmer/gotags>
@@ -68,6 +69,7 @@
 
 ** blog
 1. Go, the unwritten parts, <https://rakyll.org/>
+2. Aaron Raff, <https://www.aaronraff.dev/>
 
 ** editor
 
