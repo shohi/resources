@@ -4,9 +4,10 @@ a collection of resources
 ## List
 
 - [Go](go/README.org)
-- [Bash](bash/resource.org)
-- [R](r/resource.org)
-- [Emacs](emacs/resource.org)
+- [Bash](bash/README.org)
+- [R](r/README.org)
+- [Emacs](emacs/README.org)
+- [Clojure](clojure/README.org)
 
 ## Cheatsheet
 
