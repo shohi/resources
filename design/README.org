@@ -1,0 +1,4 @@
+* Design
+
+** document
+1. Design Docs at Google, <https://www.industrialempathy.com/posts/design-docs-at-google/>
