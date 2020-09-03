@@ -8,6 +8,7 @@ a collection of resources
 - [R](r/README.org)
 - [Emacs](emacs/README.org)
 - [Clojure](clojure/README.org)
+- [HTTP](http/README.org)
 - [Design](design/README.org)
 
 ## Cheatsheet
