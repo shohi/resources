@@ -17,7 +17,9 @@
 
 ** series
 1. Clojure Journey, <https://otavio.dev/2020/08/24/clojure-journey-i-first-steps/>
+2. Clojure from the ground up, <https://aphyr.com/posts/301-clojure-from-the-ground-up-welcome>
 
 ** blog
-1. Red Planet Labs, <https://tech.redplanetlabs.com/>
-2. Otavio Valadares, <https://otavio.dev>
+1. Kyle Kingsbury (Aphyr), <https://aphyr.com>
+2. Red Planet Labs, <https://tech.redplanetlabs.com/>
+3. Otavio Valadares, <https://otavio.dev>
