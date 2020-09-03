@@ -1,8 +1,9 @@
 * Clojure
 
 ** news
-1. planet clojure, <http://planet.clojure.in/>
-2. clojureverse, <https://clojureverse.org>
+1. /r/Clojure, <https://www.reddit.com/r/Clojure/>
+2. planet clojure, <http://planet.clojure.in/>
+3. clojureverse, <https://clojureverse.org>
 
 ** [[https://github.com/borkdude/babashka][babashka]]
 1. Using Clojure in Command Line with Babashka, <https://medium.com/@kari.marttila/using-clojure-in-command-line-with-babashka-f0ad80f74760>, 2020-09-02
