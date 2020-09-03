@@ -17,6 +17,8 @@ a collection of resources
 ### every programmer show know
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [What a C programmer should know about memory](https://marek.vavrusa.com/memory/)
+- [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+- [Memory Bandwidth Napkin Math](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 
 
 ## Online Formatter
