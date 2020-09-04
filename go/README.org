@@ -6,6 +6,7 @@
 3. Go internals, <https://github.com/teh-cmc/go-internals>
 4. Go语法树入门, <https://github.com/chai2010/go-ast-book>
 5. Go语言原本, <https://changkun.de/golang/>
+6. golang-notes - Go source code analysis, <https://github.com/cch123/golang-notes>
 
 ** ast
 1. Go语法树入门, <https://github.com/chai2010/go-ast-book>
