@@ -1,0 +1,15 @@
+* tool
+
+** ffmpeg
+
+
+1. convert mp4 to hls (https://gist.github.com/lukebussey/4d27678c72580aeb660c19a6fb73e9ee)
+
+#+begin_quote
+
+$ ffmpeg -i filename.mp4 -codec: copy -start_number 0 -hls_time 10 -hls_list_size 0 -f hls filename.m3u8
+
+#+end_quote
+
+
+https://shuiyujie.com/post/20fed56f.html
