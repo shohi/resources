@@ -8,6 +8,12 @@
 5. Go语言原本, <https://changkun.de/golang/>
 6. golang-notes - Go source code analysis, <https://github.com/cch123/golang-notes>
 
+*** GC
+1. https://stackoverflow.com/questions/14322724/what-is-the-go-language-garbage-collection-approach-compared-to-others
+2. 关于Golang GC的一些误解--真的比Java GC更领先吗？, <https://zhuanlan.zhihu.com/p/77943973>
+3. Sub-millisecond GC pauses in Go 1.8, <https://news.ycombinator.com/item?id=12821586>
+4. Getting to Go: The Journey of Go's Garbage Collector, <https://blog.golang.org/ismmkeynote>
+
 ** ast
 1. Go语法树入门, <https://github.com/chai2010/go-ast-book>
 2. Golang和ast, <https://xargin.com/ast/>
