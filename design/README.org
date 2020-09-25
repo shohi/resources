@@ -2,3 +2,12 @@
 
 ** document
 1. Design Docs at Google, <https://www.industrialempathy.com/posts/design-docs-at-google/>
+
+** book
+1. Data-Oriented Design, Richard Fabian, https://www.dataorienteddesign.com/dodbook/
+
+** article
+1. Data-Oriented Design Book Review, 2020-09-14, https://gist.github.com/seece/25ed1b2108cf5782718b026382f2c52c
+
+** resource
+1. A curated list of data oriented design resources, https://github.com/dbartolini/data-oriented-design
