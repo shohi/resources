@@ -1,5 +1,11 @@
 * Golang
 
+** news
+1. Go语言爱好者周刊, https://github.com/polaris1119/golangweekly
+2. Golang Daily, https://gocn.vip/news (https://github.com/gocn/news)
+3. Golang Weekly, https://golangweekly.com/issues/336
+4. Golang news, https://golangnews.com/
+
 ** internals
 1. Go 101, <https://go101.org/article/101.html>
 2. Go语言设计与实现, <https://draveness.me/golang/docs/part1-prerequisite/ch02-compile/golang-ir-ssa/>
