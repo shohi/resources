@@ -29,6 +29,7 @@
 1. gotags - ctags-compatible tag generator for Go, <https://github.com/jstemmer/gotags>
 2. goimpl - A tool to generate stub implementation of an interface, <https://github.com/sasha-s/goimpl>
 3. impl - Another tool to generate method stubs for implementing an interface, <https://github.com/josharian/impl>
+4. structslop - a static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency, <https://github.com/orijtech/structslop>
 
 ** scheduler
 1. 深度解密Go语言之scheduler, <https://qcrao.com/2019/09/02/dive-into-go-scheduler/>, 2019-09-02
@@ -84,6 +85,9 @@
 1. Go, the unwritten parts, <https://rakyll.org/>
 2. Aaron Raff, <https://www.aaronraff.dev/>
 
+- Dgraph blog, <https://dgraph.io/blog>
+- Three Dots Labs blog, <https://threedots.tech/>
+
 ** editor
 
 **** emacs plugin
@@ -94,5 +98,6 @@
 *** rate limit
 1. <https://github.com/uber-go/ratelimit>
 2. <https://github.com/juju/ratelimit>
-3. (2019-11-02) How to Rate Limit HTTP Requests, <https://www.alexedwards.net/blog/how-to-rate-limit-http-requests>
+3. <https://github.com/ulule/limiter>
+4. (2019-11-02) How to Rate Limit HTTP Requests, <https://www.alexedwards.net/blog/how-to-rate-limit-http-requests>
 
