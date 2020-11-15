@@ -24,5 +24,5 @@
 1. Kyle Kingsbury (Aphyr), <https://aphyr.com>
 2. Red Planet Labs, <https://tech.redplanetlabs.com/>
 3. Otavio Valadares, <https://otavio.dev>
-
 4. Kari Marttila, <https://www.karimarttila.fi>
+5. Alex Ott, <http://alexott.net/en/clojure/>
